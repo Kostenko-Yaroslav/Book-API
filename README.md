@@ -6,7 +6,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-17-blue)
 ![Docker](https://img.shields.io/badge/docker-compose-orange)
 
-A professional REST API service for managing a bookshop. The application provides tools to browse a book catalogue, manage authors, register users, and handle automated order processing with stock tracking.
+A REST API service for managing a bookshop. The application provides tools to browse a book catalogue, manage authors, register users, and handle automated order processing with stock tracking.
 
 ---
 
